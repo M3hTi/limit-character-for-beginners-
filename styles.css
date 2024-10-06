@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: #0077be;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+main {
+    background-color: #ffd700;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#charCount {
+    font-weight: bold;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}
